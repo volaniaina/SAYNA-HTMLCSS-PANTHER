@@ -1,0 +1,23 @@
+footer{
+    background-color: #4f16aa;
+    text-align: justify;
+    padding: 10px;
+
+}
+#bulle{
+    width: 200px;
+    height: 200px;
+}
+#sayma{
+    width: 80px;
+    height: 20px;
+}
+ .photo2{
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 55px;
+}
+.page, .contact{
+    clear: both;
+
+}

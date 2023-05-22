@@ -1,0 +1,22 @@
+body{
+    
+    background-color: #1d2436;
+    margin: auto;
+    text-align: justify;
+    padding: 20px;
+    width: 800px 
+    /*background-image: url(Illustrations/Enigme/Pantherenigme1.png);*/
+    background-size: contain;
+    color: white;
+    font-family: sans-serif;
+    
+
+}
+.section1{
+    text-align: justify;
+    background-image: url(Illustrations/Wakanda/Pantherwakanda1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1700px;
+    height: 800px;
+}

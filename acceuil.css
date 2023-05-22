@@ -1,0 +1,118 @@
+body{
+    padding: auto;
+    background-color: #1d2436;
+    text-align: justify;
+    width: 800px ;
+    background-size: contain;
+    color: white;
+    font-family: sans-serif;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+
+}
+#tchalla{
+    width: 400px;
+    height: 300px;
+    float: right;
+}
+.presentation{
+    clear: both;
+}
+figure{
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+    
+}
+#killmonger{
+    width: 200px;
+    height: 400px;
+}
+.figcaption1{
+    width: 2000px;
+    height: 300px;
+    text-align: center;
+    
+}
+.aide{
+    /*background-image: url(Illustrations/Accueil/Pantherhome7.png);*/
+    background-size: cover;
+    width: 400px;
+    padding-left: 150px;
+    padding-right: 150px;
+    border-radius: 100px 100px;
+    border: solid 2px;
+}
+.formulaire{
+    background-image: url(Illustrations/Accueil/Pantherhome7.png);
+    
+}
+
+#nom{
+    color: white;
+    width: 400px;
+    height: 30px;
+    border-radius: 20px 20px;
+    background: none;
+    padding: 10px;
+}
+#email{
+    color: white;
+    width: 400px;
+    height: 30px;
+    border-radius: 20px 20px;
+    background: none;
+    padding: 10px;
+}
+#message{
+    color: white;
+    width: 400px;
+    height: 150px;
+    border-radius: 20px 20px;
+    background: none;
+    padding: 10px;
+}
+#envoyer{
+    border-radius: 20px 20px;
+    text-align: center;
+}
+#prince{
+    width: 200px;
+    height: 300px;
+}
+@font-face {
+    font-family: "panthera";
+    src: url(panthera/panthera.otf);
+}
+@font-face{
+    font-family: "beyno";
+    src: url(beyno-regular-maisfontes.9cf7/beyno-regular.otf);
+}
+
+h1{
+    color: rgb(190, 158, 219);
+    font-family: "panthera";
+    font-size: 40px;
+}
+h2{
+    font-family: "beyno";
+    color: rgb(190, 158, 219);
+}
+footer{
+    background-color: #4f16aa;
+    text-align: justify;
+    padding: 10px;
+
+}

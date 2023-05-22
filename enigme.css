@@ -1,0 +1,100 @@
+body{
+    background-color: #1d2436;
+    margin: auto;
+    text-align: justify;
+    padding: 40px;
+    /*width: 800px ;*/
+    /*background-image: url(Illustrations/Enigme/Pantherenigme1.png);*/
+    background-size: contain;
+    color: white;
+    font-family: sans-serif;
+
+}
+footer{
+    list-style-type: none;
+    background-color: #4f16aa;
+    text-align: justify;
+    padding: 10px;
+
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-decoration: none;
+
+}
+#okoye{
+    width: 500px;
+    height: 500px;
+
+}
+
+#rep{
+    color: white;
+    width: 400px;
+    height: 30px;
+    /*border: none;*/
+    border-radius: 20px 20px;
+    padding: 1%;
+    /*border-bottom: 2px solid white;*/
+    background: none;
+}
+#submit{
+    text-align: center;
+    color: white;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px 30px;
+    padding: 1%;
+    background: none;
+    background-color: pink;
+    color: black;
+}
+.envoyer{
+    text-align: center;
+    margin-right: 800px;
+}
+.para1{
+    float: left;
+}
+.para2{
+    float: right;
+}
+.para4{
+    clear: both;
+}
+.savoir{
+    background-image: url(Illustrations/Enigme/Pantherenigme2.png);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    float: right;
+    text-align: center;
+}
+.traduction{
+    float: left;
+}
+.reponse{
+    clear: both;
+}
+#bulle{
+    width: 200px;
+    height: 200px;
+}
+#sayma{
+    width: 80px;
+    height: 20px;
+}
+ .photo2{
+    position: absolute;
+    margin-top: -140px;
+    margin-left: 55px;
+}
+.page, .contact{
+    clear: both;
+}
+.defi{
+    background-image: url(Illustrations/Enigme/Pantherenigme2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
