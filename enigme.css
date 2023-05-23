@@ -60,16 +60,29 @@ nav{
 }
 .para2{
     float: right;
+    margin-top: -500px;
+}
+.para3{
+    text-align: justify;
+    padding: 5px;
+    float: right;
+    margin-top: -300px;
+    margin-right: 90px;
 }
 .para4{
     clear: both;
 }
+.fond1{
+    width: 105%;
+}
 .savoir{
-    background-image: url(Illustrations/Enigme/Pantherenigme2.png);
-    background-size: 300px;
-    background-repeat: no-repeat;
+    margin-left: 1px;
+    margin-right: 10px;
     float: right;
     text-align: center;
+}
+.connaitre{
+    margin-right: 50px;
 }
 .traduction{
     float: left;
@@ -97,4 +110,33 @@ nav{
     background-image: url(Illustrations/Enigme/Pantherenigme2.png);
     background-size: contain;
     background-repeat: no-repeat;
+}
+@font-face {
+    font-family: "wakanda";
+    src: url(wakanda-forever-regular-maisfontes.1068/wakanda-forever-regular.ttf);
+}
+@font-face{
+    font-family: "beyno";
+    src: url(beyno-regular-maisfontes.9cf7/beyno-regular.otf);
+}
+span{
+    font-family: "wakanda";
+}
+h1{
+    width: 600px;
+    font-size: 250%;
+    margin-left: 200px;
+    font-family: "beyno";
+}
+h2{
+    font-family: "wakanda";
+}
+.fond2{
+    width: 2px;
+    float: right;
+    margin-right: 150px;
+    margin-top: -150px;
+}
+.formulaire{
+    float: left;
 }
