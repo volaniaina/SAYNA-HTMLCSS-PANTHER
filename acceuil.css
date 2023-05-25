@@ -1,6 +1,6 @@
 body{
+    background-image: url(Illustrations/All\ pages/arriere_plan.png);
     
-    background-color: #1d2436;
     text-align: justify;
     
     background-size: contain;
@@ -60,7 +60,7 @@ figure{
 .formulaire{
     background-image: url(Illustrations/Accueil/Pantherhome7.png);
     padding-left: 200px;
-    
+    padding-bottom: 20px;
 }
 .centrer{
     text-align: center;

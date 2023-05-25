@@ -1,10 +1,9 @@
 footer{
-    /*background-color: #4f16aa;*/
-    background-image: url(Illustrations/Alll);
+    background-image: url(Illustrations/All\ pages/back_footer.png);
     text-align: justify;
     padding: 20px;
-
 }
+
 #bulle{
     width: 200px;
     height: 200px;
@@ -26,7 +25,7 @@ footer{
     clear: both;
 
 }
-.contact{
+.contact, .taille2{
     float: right;
     margin-right: 200px;
     margin-top: -200px;
@@ -47,4 +46,11 @@ footer{
 }
 a{
     color: white;
+}
+.taille1{
+    font-size: 120%;
+}
+.taille2{
+    font-size:140% ;
+    margin-right: 140px;
 }
