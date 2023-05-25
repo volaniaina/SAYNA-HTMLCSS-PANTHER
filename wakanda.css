@@ -19,8 +19,13 @@ footer{
     clear: both;
     text-align: justify;
     background-image: url(Illustrations/Wakanda/Pantherwakanda1.png);
-    background-size: cover;
-    
+    background-size: 120% 120%;
+    background-position: center; 
+    width: 1600px;
+    height: 500px;
+    margin: 0%;
+    padding: 60px;
+      
 }
 #video{
     background-color: blue;
